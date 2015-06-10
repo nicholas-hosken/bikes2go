@@ -1,0 +1,198 @@
+<!doctype html>
+
+<html>
+	<head>
+    
+	<script src="../js/jquery-1.11.3.min.js" type="text/javascript"></script>
+
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Bikes2Go|Home - Simply the best motorcyle transport service in South Africa</title>
+	<!-- TemplateEndEditable -->
+	<link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+        
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700' rel='stylesheet' type='text/css'>
+        
+        <link rel="shortcut icon" href="../images/icons/icon_motorcycle.ico">
+        <!-- TemplateBeginEditable name="head" -->
+        <!-- TemplateEndEditable -->
+	</head>
+   
+    
+    <body>
+     	
+        <div id="wrapper">
+        	<div id="top">
+            
+               
+                <div id="logo">
+         			<a href="../index.html"><img style="border:none" src="../images/logo_trans.png" alt="Bikes2Go Logo"></a>
+            	</div><!--logo-->
+                               
+               	
+
+                <div id="call">
+                	<a href="../images/dane_fakes/naked-motorcyclist-1_529x529.jpg">
+                    	<img id="dane" width="75" height="75" src="../images/dane_fakes/naked-motorcyclist-1_529x529.jpg" alt="Dane Janion">
+                    </a>
+                </div><!--call-->
+
+			<div id="social">
+                <ul >
+                    <li>
+                        <a target="_blank" href="https://www.facebook.com/dane.janion?fref=ts">
+                            <img style="border:none" width="32" height="32" src="../images/icons/fb_square3.png">
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a target="_blank" href="https://twitter.com/dangerboy58">
+                        <img style="border:none" width="32" height="32" src="../images/icons/wooden_twitter.png" >
+                        </a>
+                    </li>
+               </ul>
+            </div><!--social-->
+          	
+            <p id="call_text">For Additional Information Please Call:<br>Dane Janion: 082 313 1003</p>
+				
+    	</div><!--top-->
+       
+            <div id="topnav">
+                <ul style="list-style-type:none">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li><a href="../pricing.html">Pricing</a></li>
+                    <li><a href="../for_sale.html">For Sale</a></li>
+                    <li><a href="../service.html">Service</a></li>
+                    <li><a href="../contact.html">Contact</a></li>        
+                </ul>  
+            </div><!--topnav-->
+            
+            
+            <div id="banner">
+                <img width="894" height="447" src="../images/banner lrmfpm ids Fakes/roadhog01_1500x750.png">
+            </div><!--banner-->
+               
+            <div id="content">
+			
+			<!-- TemplateBeginEditable name="content" -->
+                            
+                <h1>Welcome to Bikes2Go:</h1>
+                <br>
+                <p style="text-align:justify"><strong style="text-align:justify">Bikes2Go offers a professional motorcycle transport, delivery 
+                and collection service between the cities of Port Elizabeth, Bloemfontein and Joburg.</strong> Our company specialises in the 
+                transportation of motorcycles door to door with the minimum of fuss and maximum care. We also offer this service for scooters, 
+                quads, ATV's, sidecars and anything else to do with motorbikes.</p>
+                    
+               		<div id="box1">
+                        <img width="310" height="200" src="../images/randoms/ducati_desmosedici_rr.jpg"  alt="Ducati Desmosedici RR">
+                        	<h4>Ducati Desmosedici RR</h4>
+                            	<p style="font-size:16px">Transported from Kimberley to PE.</p>
+                                <em><p style="text-align:justify"><strong>"Wow guys you really saved my bacon! I really appreciate you going so 
+                                far out of you way to help me... <br>...If anybody ever needs a bike transportation service I will be sure to 
+                                send them your way."</strong></p>
+                                <p style="text-align:right">-P Col</p></em>
+                                
+                    </div><!--box1-->
+                    
+                    <div id="box2">
+                        <img width="310" height="200" src="../images/randoms/bimota_tesi_3d.jpg" alt="Bimota Tesi 3D">
+                        	<h4>Bimota Tesi 3D</h4>
+                            	<p style="font-size:16px">Transported from PE to Joburg.</p>
+                                <em><p style="text-align:justify"><strong>"Dear 'King Slick'[Dane], I just wanted to drop you a quick thank you 		
+                                to you and your team for all your help in getting our bikes up here so quickly. Ayrton and I were really 
+                                impressed with both how easy and rapid your service was."</strong></p>
+                                <p style="text-align:right">-C Iddon</p></em>
+                    </div><!--box2-->
+                
+                
+                    <div id="content2">
+                        <h2>Why choose us?</h2>
+                            <ul>
+                                <br>
+                                <li>We are now one of the most established motorcycle transportation companies in South Africa and our friendly 
+                                	staff are here to help you in any way they can.
+                                </li>
+                                <br><br>
+                                <li>We understand how important your motorbike is to you so our transport service is fully insured, thus 
+                                	providing you with peace of mind for the whole transit.
+                                </li>
+                                <br><br>
+                                <li>All our vans and trailers are fully equipped to hold your bike safely and securely.</li>
+                                <br><br>
+                                <li>We pride ourselves on having an excellent reputation with our existing customers who use Bikes2Go again and 		
+                                	again.
+                                </li>
+                                <br><br>
+                                <li>We offer a door to door motorcycle transport and delivery service second to none at very competitive rates.
+                                </li>
+                                <br><br>
+                                <li>A friendly, personal service. You can call us and speak to a person, not a machine.</li>
+                                <br><br>
+                            </ul> 
+                   		</div><!--content2-->                
+                	<!-- TemplateEndEditable -->
+                    </div><!--content-->
+        
+        
+                
+             
+            <div id="right_side">
+                <h2><font color="#74AF1F">Upcoming Events:</font></h2>
+                	
+                    <a target="_blank" href="http://www.samxnationals.co.za/rnd3.html">
+                    <img class="rs_image" width="200" height="283" src="../images/randoms/rover01.jpg">
+                    </a>
+                    
+                    <p><font color="#74AF1F">Address:</font> Victoria Drive, Schoenmakerskop, Port Elizabeth, Eastern Cape</p>
+                    <p ><font color="#74AF1F">Entrance Fee:</font> R50 per person, <br>kids U12 Free. Includes free event programme while stocks 
+                    						  last.		
+                    </p>
+                    <p><font color="#74AF1F">Parking:</font> Inside the venue.</p>
+                    <p><font color="#74AF1F">Food & Beverages:</font> on sale at the club.</p>
+                    <p><font color="#74AF1F">Programme:</font> <i style="font-size:14px">(subject to change without prior notice)</i></p>
+                    <p><pre>          08h00am - Practice</pre></p>
+                    <p><pre>          10h00am - Heat 1</pre></p>
+                    <p><pre>          12h30pm - Lunch & Rider</pre></p>
+                    <p><pre>			      Autograph Sessions</pre></p>
+                    <p><pre>          13h00pm - Heat 2</pre></p>
+                    <p><pre>          16h30pm - Prize Giving</pre></p>
+                    <br>
+            
+                    
+                <div id ="sale">
+                	<br>
+                	<!-- TemplateBeginEditable name="sale" -->
+                    <a href="#">
+                   	<p style="font-size:26px">NEXT 2 NOTHING:</p>
+                    	<img class="rs_image" width="200" height="129" src="../images/randoms/Showroom_files/l1egtwjqulbgmhvcrfol.jpg">
+                    	<p id="ta_center"><strong style="font-size:12px"> 1937 Triumph Twin Speed</strong></p>
+                        <p id="ta_center">R99,997.00</p>
+                    </a>
+                    <!-- TemplateEndEditable -->
+                    <br>
+                </div><!--sale-->
+                
+                <div id="hiring">
+                	<br>
+                    <h2><font color="#74AF1F">We Are Hiring!!!</font></font></h2>
+                        <img class="rs_image" width="200" height="132" src="../images/randoms/cape_town01.jpg">
+                        <p style="text-align:justify"> We are looking looking for good, reliable drivers for our newest delivery destination: 
+                        							   Cape Town.
+                        </p>
+                        <a href="#"><p style="text-align:center" style="vertical-align:middle"><font color="74AF1F">Apply Here</font></p></a> 
+                </div><!--hiring-->
+            </div><!--right_side-->
+            
+            
+			<img id="flag" style="border:none" src="../images/flag_border_888x40.png">
+            
+            <div id="foot">
+            	<p>Bikes2Go | All Rights Reserved | 4 Bougainvillea Place, Westering, Port Elizabeth, 6025.</p>
+                    
+                <a href="#"><img id="naf" style="border:none" class="rs_image" width="200" height="36" src="../images/niceandfoamy_trans.png"></a>
+            </div><!--foot-->
+         
+		</div><!--wrapper-->
+         
+	</body>
+</html>

@@ -1,0 +1,99 @@
+*	{
+	border:0;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:normal;
+	margin:0;
+	padding:0 0 0 20px;
+}
+
+
+body { 
+    background-image:url(../images/wooden_background_1920x1200.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size:cover;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+div > ul > li	{
+				list-style-type:none;
+				display:inline;
+}
+		
+
+img	{
+	border: 2px solid #BBA064;
+	margin:0 0 10px 20px;
+	padding:0 0 0 0;
+}
+
+h1, h2	{
+		color:74AF1F;
+		font-size:36px;
+}
+
+
+pre	{
+	border:0;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:normal;
+	margin:0;
+	padding:0 0 0 20px;
+
+}
+/*
+#dane	{
+		float:right
+}
+*/
+#social	{
+		float:right:
+}
+
+
+#logo	{
+		margin:auto;		
+}
+
+
+#nandf	{
+		float:right
+}
+
+
+#ronnie	{
+		border:none;
+		display: block;
+   		margin-left: auto;
+    	margin-right: auto;
+}
+/*Test Below*/
+
+a:link		{
+			color:#FF9;
+}
+
+a:visited	{
+			color:#fff;
+}
+
+a:active	{
+			color:#fff;
+}
+
+a:hover	{
+			color:#74AF1F;
+}
+
+a:focus	{
+			color:#74AF1F;
+}
+
+/*Test Above*/
+				
+
+
+	

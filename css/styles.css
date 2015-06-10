@@ -1,0 +1,149 @@
+/*
+A "Nice & Foamy" Website by Nicholas Hosken
+font-family: 'Open Sans', sans-serif;
+*/
+
+
+*	{	border:0;
+			font-family:'Open Sans',"Times New Roman", Times, serif;
+				font-size:16px;
+					font-weight:normal;
+						margin:0 auto; }
+
+body	{	background-image:url(../images/wooden_black.jpg);
+		 		background-repeat:no-repeat;
+		  			background-size:cover;
+		   				background-attachment:fixed; 
+							text-decoration:none; 
+								font-family:Arial, Helvetica, sans-serif;
+									color:white; }
+							
+h1, h2, h3, h4	{	font-family:'Open Sans',Tahoma, Geneva, sans-serif;
+					color:#74AF1F; }
+h1	{	font-size:36px; }
+h2	{	font-size:24px; }
+h3	{	font-size:18px; }
+h4	{	font-size:16px; }
+
+img	{	border:1px solid black; }
+
+#wrapper	{	width:900px;
+					margin:10px auto; }
+
+#logo	{	margin:40px 0 0 100;
+				width:312px;
+					margin-left:auto ;
+  						margin-right:auto ; }
+#logo img	{border:none; }
+
+
+
+#call	{	float:right;
+				text-align:right;
+					margin-left:10px; }
+#call_text	{	text-align:right;
+					margin:0 0 0 0;
+						font-size:14px;
+							clear:#social; }	
+
+
+
+#social	{ 	text-align:right; }
+#social ul li	{ 	display:inline; }
+
+
+
+#topnav	{ 	clear:both; }
+#topnav	ul	{	margin:0;
+					padding:0;
+						border-top: 2px solid black; }
+#topnav ul li	{	display:inline;
+						padding:5px 40px 5px 0;
+							float:left;	}
+							
+#topnav a:link		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:silver; font-size:14px; }
+#topnav a:activate	{	font-weight:bold; text-decoration:none;	text-transform:uppercase; color:silver; }
+#topnav a:visited	{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:silver; }
+#topnav a:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:white; }
+#topnav a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:white; }
+
+							
+#banner	{	margin:0 0 30px 0; }
+							
+#content	{	float:left;
+					width: 670px; }
+#content p strong	{	line-height:140%; }
+#content p	{	line-height:140%; }
+							 
+#box1	{	width:310px;
+				float:left;
+					margin:25px 30px 25px 0;
+						padding:5px; }
+#box1 p strong	{	font-size:14px;
+						color:khaki; }
+
+
+#box2	{	width:310px;
+				float:left;
+					margin:25px 0; 
+						padding:5px; }
+#box2 p strong	{	font-size:14px;
+						color:khaki; }
+
+#content2	{	clear:left; }
+#content2 ul	{	line-height:140%;
+						text-align:justify; }
+
+#right_side	{	float:right;
+					width: 206px;
+						margin:0 0 30px 0;
+							line-height:140%;
+								padding:0 0 15px 15px; }
+#right_side h2 font	{ font-size:24px;
+						text-align: center;
+							vertical-align: middle; }
+#right_side p	{	font-size:12px; }
+
+.rs_image	{	margin-top:15px; }
+
+pre	{	font-size:12px; }
+
+#sale	{	border-top:1px solid black;
+				border-bottom:1px solid black; }
+				
+#sale a	{	text-decoration:none; }
+#sale a:link		{	text-decoration:none; text-transform:uppercase; color:red; }
+#sale a:activate	{	text-decoration:none; text-transform:uppercase; color:red; }
+#sale a:visited		{	text-decoration:none; text-transform:uppercase; color:red; }
+#sale a:hover		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+
+#sale p	{	text-align: center;
+				vertical-align: middle; }
+						
+#ta_center 	{	text-align: center;
+					vertical-align: middle;
+						margin-right:12px; }
+						
+#sale a p strong:link		{	text-decoration:none; text-transform:uppercase; color:red; }
+#sale a p strong:activate	{	text-decoration:none; text-transform:uppercase; color:red; }
+#sale a p strong:visited	{	text-decoration:none; text-transform:uppercase; color:red; }
+#sale a p strong:hover		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale a p strong:focus		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+
+#hiring h2 	{ font-size:24px;
+				text-align: center;
+					vertical-align: middle; }
+#hiring a	{	text-decoration:none; }
+
+#flag	{	text-align: center;
+					vertical-align: middle; }
+
+#foot	{	padding:10px 0 0 0;
+				text-align:center; }				
+#foot p	{	font-size:12px;
+				text-align:center;
+					font-weight:700; }
+					
+
+							
