@@ -10,7 +10,7 @@ font-family: 'Open Sans', sans-serif;
 					font-weight:normal;
 						margin:0 auto; }
 
-body	{	background-image:url(../images/wooden_black.jpg);
+body	{	background-image:url(../images/wooden_background_1920x1200.jpg);
 		 		background-repeat:no-repeat;
 		  			background-size:cover;
 		   				background-attachment:fixed; 
@@ -64,12 +64,20 @@ img	{	border:1px solid black; }
 #topnav a:link		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:silver; font-size:14px; }
 #topnav a:activate	{	font-weight:bold; text-decoration:none;	text-transform:uppercase; color:silver; }
 #topnav a:visited	{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:silver; }
-#topnav a:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:white; }
+#topnav a:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#74AF1F; }
 #topnav a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:white; }
 
 							
-#banner	{	margin:0 0 30px 0; }
-							
+#banner	{	padding:3px 0 0 0; }
+				
+#banner_background	{	background-color:black; 
+							width:900px; 
+								height:453px; 
+									margin-top:29px; 
+										margin-bottom:300px; 
+											clear:both;
+												border-radius: 5px; } 
+
 #content	{	float:left;
 					width: 670px; }
 #content p strong	{	line-height:140%; }
@@ -112,11 +120,11 @@ pre	{	font-size:12px; }
 				border-bottom:1px solid black; }
 				
 #sale a	{	text-decoration:none; }
-#sale a:link		{	text-decoration:none; text-transform:uppercase; color:red; }
-#sale a:activate	{	text-decoration:none; text-transform:uppercase; color:red; }
-#sale a:visited		{	text-decoration:none; text-transform:uppercase; color:red; }
-#sale a:hover		{	text-decoration:none; text-transform:uppercase; color:khaki; }
-#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale a:link		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale a:activate	{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale a:visited		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale a:hover		{	text-decoration:none; text-transform:uppercase; color:#74AF1F; }
+#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:#74AF1F; }
 
 #sale p	{	text-align: center;
 				vertical-align: middle; }
@@ -125,11 +133,6 @@ pre	{	font-size:12px; }
 					vertical-align: middle;
 						margin-right:12px; }
 						
-#sale a p strong:link		{	text-decoration:none; text-transform:uppercase; color:red; }
-#sale a p strong:activate	{	text-decoration:none; text-transform:uppercase; color:red; }
-#sale a p strong:visited	{	text-decoration:none; text-transform:uppercase; color:red; }
-#sale a p strong:hover		{	text-decoration:none; text-transform:uppercase; color:khaki; }
-#sale a p strong:focus		{	text-decoration:none; text-transform:uppercase; color:khaki; }
 
 #hiring h2 	{ font-size:24px;
 				text-align: center;
@@ -144,6 +147,3 @@ pre	{	font-size:12px; }
 #foot p	{	font-size:12px;
 				text-align:center;
 					font-weight:700; }
-					
-
-							
