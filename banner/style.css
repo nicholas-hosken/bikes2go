@@ -177,7 +177,7 @@
 }
 #wowslider-container1 .ws_video_btn div {
 	position: absolute;
-	background-image: url(./playvideo.png);
+	background-image: url(../engine1/playvideo.png);
 	background-size: 200%;
 	top: 50%;
 	left: 50%;
@@ -209,7 +209,7 @@
 	width: 20px;
 	height: 20px;
 
-	background-image: url(./bullet.png);
+	background-image: url("bullet.png");
 	float: left; 
 	text-indent: -4000px; 
 	position:relative;
@@ -227,7 +227,7 @@
 	z-index:60;
 	width: 2.2em;	
 	height: 2.2em;
-	background-image: url(./arrows.png);
+	background-image: url("arrows.png");
 	background-size: 200%;
 	opacity: 0.7;
 }
@@ -263,13 +263,13 @@
 }
 
 #wowslider-container1 .ws_pause {
-    background-image: url(./pause.png);
+    background-image: url("pause.png");
 	background-position: 0 0; 
     opacity: 0.5;
 }
 
 #wowslider-container1 .ws_play {
-    background-image: url(./play.png);
+    background-image: url("play.png");
 	background-position: 0 0; 
     opacity: 0.5;
 }
