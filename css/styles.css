@@ -1,5 +1,5 @@
 /*
-A "Nice & Foamy" Website by Nicholas Hosken
+A "Nice & Foamy" Website by Nicholas Hosken +52 988 303 1727
 font-family: 'Open Sans', sans-serif;
 */
 
@@ -19,7 +19,7 @@ body	{	background-image:url(../images/wooden_background_1920x1200.jpg);
 									color:white; }
 							
 h1, h2, h3, h4	{	font-family:'Open Sans',Tahoma, Geneva, sans-serif;
-						color:#74AF1F;
+						color:#b5e61d;
 							text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000; }
 h1	{	font-size:48px;
 			margin-top:30px; }
@@ -27,8 +27,7 @@ h2	{	font-size:36px; }
 h3	{	font-size:24px; }
 h4	{	font-size:18px; }
 
-img	{	border:3px solid #835C3B;
-			padding: 2px; }
+img	{	border:3px solid #835C3B; }
 
 #wrapper	{	width:900px;
 					margin:10px auto; }
@@ -44,6 +43,8 @@ img	{	border:3px solid #835C3B;
 #call	{	float:right;
 				text-align:right;
 					margin-left:10px; }
+#call a img	{	border:2px solid #b5e61d;
+					padding:0; }
 #call_text	{	text-align:right;
 					margin:0 0 0 0;
 						font-size:14px;
@@ -51,32 +52,35 @@ img	{	border:3px solid #835C3B;
 
 
 
-#social	{ 	text-align:right; }
+#social	{ 	text-align:right;  }
 #social ul li	{ 	display:inline; }
+#social ul li a img	{ 	border:2px solid #b5e61d;
+							padding:0;
+								border-radius:8px;	}
 
 
 
 #topnav	{ 	clear:both; }
 #topnav	ul	{	margin:0;
 					padding:0;
-						border-top: 2px solid black; }
+						border-top: 2px solid #835C3B; }
 #topnav ul li	{	display:inline;
 						padding:5px 40px 5px 0;
 							float:left;	}
 							
-#topnav a:link		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#CC6600; font-size:14px; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
-#topnav a:activate	{	font-weight:bold; text-decoration:none;	text-transform:uppercase; color:#CC6600; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
-#topnav a:visited	{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#CC6600; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
-#topnav a:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
-#topnav a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;}
+a:link		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#b5e61d; font-size:14px; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a:activate	{	font-weight:bold; text-decoration:none;	text-transform:uppercase; color:#b5e61d; text-shadow:1px 1px 0 #74AF1F, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a:visited	{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#b5e61d; text-shadow:1px 1px 0 #74AF1F, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
 							
 #banner	{	padding:3px 0 0 0; }
 				
-#banner_background	{	background-color:khaki; 
+#banner_background	{	background-color:#ba7635; 
 							width:900px; 
 								height:453px; 
 									margin-top:29px; 
-										margin-bottom:300px; 
+										margin-bottom:0px; 
 											clear:both;
 												border-radius: 5px; } 
 
@@ -151,3 +155,52 @@ pre	{	font-size:12px; }
 #foot p	{	font-size:12px;
 				text-align:center;
 					font-weight:700; }
+					
+/*-----------------------------------------------------------------Sale page-------------------------------------------------------------------*/
+
+#showroom_sale	{	width:900px; }
+
+.bike4sale	{	float:left;
+					border:1px solid #ba7635;
+						margin:3px;
+							padding:2px; 
+								background-image:url(../images/wooden_background_1920x1200_customsmall.jpg);
+									background-size:cover;
+										height:300px; }			/*Frame with red gold*/
+
+.bike4sale > a > img	{	width:280px;
+								height:180px; 
+									margin:1px;
+										padding:0px;
+											border:3px solid #ba7635; }
+											
+
+/*----------------------------------------------------------------Sell me----------------------------------------------------------------------*/
+
+a h4:link		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#b5e61d; font-size:14px; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a h4:activate	{	font-weight:bold; text-decoration:none;	text-transform:uppercase; color:#b5e61d; text-shadow:1px 1px 0 #74AF1F, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a h4:visited	{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#b5e61d; text-shadow:1px 1px 0 #74AF1F, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+a h4:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+ah4 :focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
+
+
+#sellme	{	text-align:center;
+				margin:auto; }
+
+#sellme img	{	border:none;
+					margin-bottom:10px; }
+
+#info_left	{	float:left; 
+					width:200px;
+						margin:0 0 0 10px}
+#info_lefta	{	float:left; 
+					width:240px;}
+#info_right	{	float:left;
+					width:200px; }
+#info_righta	{	float:left;
+						width:250px; }
+					
+.details	{	color:#b5e61d; 
+					text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000; }
+					
+					

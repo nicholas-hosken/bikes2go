@@ -1,0 +1,267 @@
+<!doctype html>
+
+<html>
+	<head>
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Bikes2Go | Home - Simply the best motorcyle transport service in South Africa</title>
+	<!-- TemplateEndEditable -->
+	<link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+        
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700' rel='stylesheet' type='text/css'>
+        
+        <link rel="shortcut icon" href="../images/icons/icon_motorcycle.ico">
+
+        <link rel="stylesheet" type="text/css" href="../engine1/style.css" />
+        <script type="text/javascript" src="../engine1/jquery.js"></script>
+        <!-- TemplateBeginEditable name="head" -->
+        <!-- TemplateEndEditable -->
+    <script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+        </script>
+	</head>
+   
+    
+    <body onLoad="MM_preloadImages('../images/randoms/cape_town01_sepia_pop.jpg','../images/dane_fakes/naked-motorcyclist-1_529x529.jpg','../images/randoms/rover01.jpg')">
+     	
+        <div id="wrapper">
+        	<div id="top">
+            
+               
+                <div id="logo">
+         			<a href="#"><img style="border:none" src="../images/logo_trans.png" alt="Bikes2Go Logo"></a>
+            	</div><!--logo-->
+                               
+               	
+
+                <div id="call">
+                	<a href="../images/dane_fakes/naked-motorcyclist-1_529x529_sepia.jpg">
+                    	<img src="../images/dane_fakes/naked-motorcyclist-1_529x529_sepia.jpg" alt="Dane Janion" width="75" height="75" id="dane" onMouseOver="MM_swapImage('dane','','../images/dane_fakes/naked-motorcyclist-1_529x529.jpg',1)" onMouseOut="MM_swapImgRestore()">
+                    </a>
+                </div><!--call-->
+
+			<div id="social">
+                <ul >
+                    <li>
+                        <a target="_blank" href="https://www.facebook.com/pages/Bikes2go/1616667688547407?pnref=story">
+                            <img style="border:none" width="32" height="32" src="../images/icons/fb_square3.png">
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a target="_blank" href="https://twitter.com/dangerboy58">
+                        <img style="border:none" width="32" height="32" src="../images/icons/wooden_twitter.png" >
+                        </a>
+                    </li>
+               </ul>
+            </div><!--social-->
+          	
+            <p id="call_text">For Additional Information Please Call:<br>Dane Janion: 082 313 1003</p>
+				
+    	</div><!--top-->
+       
+            <div id="topnav">
+                <ul style="list-style-type:none">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li><a href="../pricing.html">Pricing</a></li>
+                    <li><a href="../for_sale.html">For Sale</a></li>
+                    <li><a href="../service.html">Service</a></li>
+                    <li><a href="../contact.html">Contact</a></li>        
+                </ul>  
+            </div><!--topnav-->
+           
+            <div id="banner_background">                   
+            <div id="banner">
+                
+                <div id="wowslider-container1">
+                
+                    <div class="ws_images">
+                     
+                      <ul>
+                        <li>
+                        <img src="../data1/images/1roadhog01_1500x750.png" alt="1roadhog01_1500x750" title="1roadhog01_1500x750" id="wows1_0"/>
+                        </li>
+                        
+                        <li>
+                        <img src="../data1/images/2roadhog02_1200x600.jpg" alt="2roadhog02_1200x600" title="2roadhog02_1200x600" id="wows1_1"/>
+                        </li>
+                        
+                        <li>
+                        <img src="../data1/images/3brit01_1024x512.png" alt="3Brit01_1024x512" title="3Brit01_1024x512" id="wows1_2"/>
+                        </li>
+                        
+                        <li>
+                        <img src="../data1/images/4sports01_1128x569.jpg" alt="4sports01_1128x569" title="4sports01_1128x569" id="wows1_3"/>
+                        </li>
+                        
+                        <li>
+                        <img src="../data1/images/5dirty.jpg" alt="5dirty" title="5dirty" id="wows1_4"/>
+                        </li>
+                        <li>
+                        <img src="../data1/images/6pe01.jpg" alt="6pe01" title="6pe01" id="wows1_5"/>
+                        </li>
+                        
+                        <li>	
+                        <img src="../data1/images/7pe02.jpg" alt="7pe02" title="7pe02" id="wows1_6"/>
+                        </li>
+                        
+                        <li>
+                        <img src="../data1/images/9trailer01_1418x709.jpg" alt="9trailer01_1418x709" title="9trailer01_1418x709" id="wows1_8"/>
+                        </li>
+                        
+                      </ul>
+                    </div>
+                    
+                <script type="text/javascript" src="../engine1/wowslider.js"></script>
+                <script type="text/javascript" src="../engine1/script.js"></script>
+
+            </div><!--banner-->
+			</div><!--banner background end-->
+            
+
+            <div id="content">
+			
+<!-- TemplateBeginEditable name="content" -->
+                
+                <h1>Welcome to Bikes2Go:</h1>
+                <br>
+                <p style="text-align:justify"><strong style="text-align:justify">Bikes2Go offers a professional motorcycle transport, delivery 
+                and collection service between the cities of Port Elizabeth, Bloemfontein and Joburg.</strong> Our company specialises in the 
+                transportation of motorcycles door to door with the minimum of fuss and maximum care. We also offer this service for scooters, 
+                quads, ATV's, sidecars and anything else to do with motorbikes.</p>
+                    
+               		<div id="box1">
+                        <img width="310" height="200" src="../images/randoms/ducati_desmosedici_rr.jpg"  alt="Ducati Desmosedici RR">
+                        	<h4>Ducati Desmosedici RR</h4>
+                            	<p style="font-size:16px">Transported from Kimberley to PE.</p>
+                                <em><p style="text-align:justify"><strong>"Wow guys you really saved my bacon! I really appreciate you going so 
+                                far out of you way to help me... <br>...If anybody ever needs a bike transportation service I will be sure to 
+                                send them your way."</strong></p>
+                                <p style="text-align:right">-P Col</p></em>
+                                
+                    </div><!--box1-->
+                    
+                    <div id="box2">
+                        <img width="310" height="200" src="../images/randoms/bimota_tesi_3d.jpg" alt="Bimota Tesi 3D">
+                        	<h4>Bimota Tesi 3D</h4>
+                            	<p style="font-size:16px">Transported from PE to Joburg.</p>
+                                <em><p style="text-align:justify"><strong>"Dear 'King Slick'[Dane], I just wanted to drop you a quick thank you 
+                                to you and your team for all your help in getting our bikes up here so quickly. Ayrton and I were really 
+                                impressed with both how easy and 
+                                rapid your service was."</strong></p>
+                                <p style="text-align:right">-C Iddon</p></em>
+                    </div><!--box2-->
+                
+                
+                    <div id="content2">
+                        <h2>Why choose us?</h2>
+                            <ul>
+                                <br>
+                                <li>We are now one of the most established motorcycle transportation companies in South Africa and our friendly 
+                                	staff are here to help you in any way they can.
+                                </li>
+                                <br><br>
+                                <li>We understand how important your motorbike is to you so our transport service is fully insured, thus 
+                                	providing you with peace of mind for the whole transit.
+                                </li>
+                                <br><br>
+                                <li>All our vans and trailers are fully equipped to hold your bike safely and securely.</li>
+                                <br><br>
+                                <li>We pride ourselves on having an excellent reputation with our existing customers who use Bikes2Go again and 		
+                                	again.
+                                </li>
+                                <br><br>
+                                <li>We offer a door to door motorcycle transport and delivery service second to none at very competitive rates.
+                                </li>
+                                <br><br>
+                                <li>A friendly, personal service. You can call us and speak to a person, not a machine.</li>
+                                <br><br>
+                            </ul> 
+                   		</div><!--content2-->
+                         
+              </div><!--content-->
+                    
+                              
+             
+            <div id="right_side">
+                <h2><font color="#74AF1F">Upcoming Events:</font></h2>
+                	
+                    <a target="_blank" href="http://www.samxnationals.co.za/rnd3.html">
+                    <img src="../images/randoms/rover01_sepia.jpg" width="200" height="283" class="rs_image" id="Image2" onMouseOver="MM_swapImage('Image2','','../images/randoms/rover01.jpg',1)" onMouseOut="MM_swapImgRestore()">
+                    </a>
+                    
+              <p><font color="#74AF1F">Address:</font> Victoria Drive, Schoenmakerskop, Port Elizabeth, Eastern Cape</p>
+                    <p ><font color="#74AF1F">Entrance Fee:</font> R50 per person, <br>kids U12 Free. Includes free event programme while stocks 
+                    						  last.		
+                    </p>
+                    <p><font color="#74AF1F">Parking:</font> Inside the venue.</p>
+                    <p><font color="#74AF1F">Food & Beverages:</font> on sale at the club.</p>
+                    <p><font color="#74AF1F">Programme:</font> <i style="font-size:14px">(subject to change without prior notice)</i></p>
+                    <p><pre>          08h00am - Practice</pre></p>
+                    <p><pre>          10h00am - Heat 1</pre></p>
+                    <p><pre>          12h30pm - Lunch & Rider</pre></p>
+                    <p><pre>			      Autograph Sessions</pre></p>
+                    <p><pre>          13h00pm - Heat 2</pre></p>
+                    <p><pre>          16h30pm - Prize Giving</pre></p>
+                    <br>
+            
+                    
+                <div id ="sale">
+                	<br>
+
+                        <a href="#">
+                        <p style="font-size:26px">NEXT 2 NOTHING:</p>
+                            <img class="rs_image" width="200" height="129" src="../images/randoms/Showroom_files/l1egtwjqulbgmhvcrfol.jpg">
+                            <p id="ta_center"><strong style="font-size:12px"> 1937 Triumph Twin Speed</strong></p>
+                            <p id="ta_center">R99,997.00</p>
+                        </a>
+                    
+                    <br>
+                </div><!--sale-->
+                
+                <div id="hiring">
+                	<br>
+                    <h2><font color="#74AF1F">We Are Hiring!!!</font></font></h2>
+                        <img src="../images/randoms/cape_town01_sepia.jpg" width="200" height="132" class="rs_image" id="Image1" onMouseOver="MM_swapImage('Image1','','../images/randoms/cape_town01_sepia_pop.jpg',1)" onMouseOut="MM_swapImgRestore()">
+                        <p style="text-align:justify"> We are looking looking for good, reliable drivers for our newest delivery destination: 
+                        							   Cape Town.
+                        </p>
+                        <a href="#"><p style="text-align:center" style="vertical-align:middle"><font color="74AF1F">Apply Here</font></p></a> 
+                </div><!--hiring-->
+            </div><!--right_side-->
+            
+<!-- TemplateEndEditable -->
+            
+			<img id="flag" style="border:none" src="../images/flag_border_888x40.png">
+            
+            <div id="foot">
+            	<p>Bikes2Go | All Rights Reserved | 4 Bougainvillea Place, Westering, Port Elizabeth, 6025.</p>
+                    
+                <a href="#"><img id="naf" style="border:none" class="rs_image" width="200" height="36" src="../images/niceandfoamy_trans.png"></a>
+            </div><!--foot-->
+         
+		</div><!--wrapper-->
+         
+	</body>
+</html>
