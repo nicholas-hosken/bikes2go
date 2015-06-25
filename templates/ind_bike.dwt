@@ -56,10 +56,12 @@
             	</div><!--logo-->
                                          				
  	  		</div><!--top-->
-            
+                       
             	<a href="../for_sale.html">
                 	<h4 style="text-align:right; margin:0 50px 20px 0">Back</h4>
                 </a>
+
+<!-- TemplateBeginEditable name="ind_bike_details" -->
                   			
                 <a href="#">
        				<img src="../images/arrow-right.png" style="float:right; border:none; margin-top:150px" width="100px">
@@ -68,10 +70,7 @@
                 <a href="#">
        				<img src="../images/arrow-left.png" style="float:left; border:none; margin-top:150px" width="100px">
 				</a>
-				
-<!-- TemplateBeginEditable name="ind_bike_details" -->
-
-                
+				                
 			<div id="sellme">            
 		  		<img src="../images/randoms/bimota_tesi_3d.jpg" style="border:2px solid #b5e61d; padding:none">
             </div><!--sellme-->
