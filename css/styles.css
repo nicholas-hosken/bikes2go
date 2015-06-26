@@ -10,7 +10,7 @@ font-family: 'Open Sans', sans-serif;
 					font-weight:normal;
 						margin:0 auto; }
 
-body	{	background-image:url(../images/wooden_background_1920x1200.jpg);
+body	{	background-image:url(../images/Misc/wooden_background_1920x1200_custom.jpg);
 		 		background-repeat:no-repeat;
 		  			background-size:cover;
 		   				background-attachment:fixed; 
@@ -28,6 +28,7 @@ h3	{	font-size:24px; }
 h4	{	font-size:18px; }
 
 img	{	border:3px solid #835C3B; }
+img:hover	{	border-color:#b5e61d; }
 
 #wrapper	{	width:900px;
 					margin:10px auto; }
@@ -36,26 +37,23 @@ img	{	border:3px solid #835C3B; }
 				width:312px;
 					margin-left:auto ;
   						margin-right:auto ; }
-#logo img	{	border:none; }
+#logo > img	{	border:none; }
 
 
 
 #call	{	float:right;
 				text-align:right;
 					margin-left:10px; }
-#call a img	{	border:2px solid #b5e61d;
-					padding:0; }
+
 #call_text	{	text-align:right;
 					margin:0 0 0 0;
-						font-size:14px; }	
+						font-size:14px; }
+
+#dane	{	border-radius:8px;	}
 
 #social	{ 	text-align:right;  }
 #social ul li	{ 	display:inline; }
-#social ul li a img	{ 	border:2px solid #b5e61d;
-							padding:0;
-								border-radius:8px;	}
-
-
+#social ul li a img	{ 	border-radius:8px; }
 
 #topnav	{ 	clear:both; }
 #topnav	ul	{	margin:0;
@@ -73,9 +71,9 @@ a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; col
 							
 #banner	{	padding:3px 0 0 0; }
 				
-#banner_background	{	background-color:#ba7635; 
+#banner_background	{	background-color:#b5e61d; 
 							width:900px; 
-								height:453px; 
+								height:494px; 
 									margin-top:29px; 
 										margin-bottom:0px; 
 											clear:both;
@@ -92,6 +90,7 @@ a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; col
 						padding:5px; }
 #box1 p strong	{	font-size:14px;
 						color:khaki; }
+#box1:hover img	{	border-color:#b5e61d; }
 
 
 #box2	{	width:310px;
@@ -100,6 +99,7 @@ a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; col
 						padding:5px; }
 #box2 p strong	{	font-size:14px;
 						color:khaki; }
+#box2:hover img	{	border-color:#b5e61d; }
 
 #content2	{	clear:left; }
 #content2 ul	{	line-height:140%;
@@ -116,6 +116,8 @@ a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; col
 							vertical-align: middle; }
 #right_side p	{	font-size:12px; }
 
+#right_side img:hover	{	border-color:#b5e61d; }
+#right_side:hover a p	{	color:khaki; }
 .rs_image	{	margin-top:15px; }
 
 pre	{	font-size:12px; }
@@ -128,8 +130,8 @@ pre	{	font-size:12px; }
 #sale a:link		{	text-decoration:none; text-transform:uppercase; color:khaki; }
 #sale a:activate	{	text-decoration:none; text-transform:uppercase; color:khaki; }
 #sale a:visited		{	text-decoration:none; text-transform:uppercase; color:khaki; }
-#sale a:hover		{	text-decoration:none; text-transform:uppercase; color:#74AF1F; }
-#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:#74AF1F; }
+#sale a:hover		{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
+#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
 
 #sale p	{	text-align: center;
 				vertical-align: middle; }
@@ -143,6 +145,8 @@ pre	{	font-size:12px; }
 				text-align: center;
 					vertical-align: middle; }
 #hiring a	{	text-decoration:none; }
+#hiring a:hover	{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#hiring:hover a img {	border-color:#b5e61d; }
 
 #flag	{	text-align: center;
 					vertical-align: middle; }
