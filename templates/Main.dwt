@@ -22,6 +22,9 @@
     
    	<!-- TemplateBeginEditable name="head" -->
     <!-- TemplateEndEditable -->
+    
+    <meta name="robots" content="INDEX,FOLLOW">
+	
    	<script type="text/javascript">
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();

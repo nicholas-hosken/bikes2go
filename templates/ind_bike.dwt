@@ -15,8 +15,12 @@
         <script type="text/javascript" src="../banner/jquery.js"></script>
             
 <!-- TemplateBeginEditable name="head" -->
+
+		<meta name="description" content="">
+    	<meta name="keywords" content="">
+
 <!-- TemplateEndEditable -->
-    
+    	<meta name="robots" content="INDEX,FOLLOW">
 </head>
    
     

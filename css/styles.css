@@ -18,9 +18,9 @@ body	{	background-image:url(../images/Misc/wooden_background_1920x1200_custom.jp
 								font-family:Arial, Helvetica, sans-serif;
 									color:white; }
 							
-h1, h2, h3, h4	{	font-family:'Open Sans',Tahoma, Geneva, sans-serif;
-						color:#b5e61d;
-							text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000; }
+h1, h2, h3, h4, h5	{	font-family:'Open Sans',Tahoma, Geneva, sans-serif;
+							color:#b5e61d;
+								text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000; }
 h1	{	font-size:48px;
 			margin-top:30px; }
 h2	{	font-size:36px; }
@@ -117,7 +117,7 @@ a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; col
 #right_side p	{	font-size:12px; }
 
 #right_side img:hover	{	border-color:#b5e61d; }
-#right_side:hover a p	{	color:khaki; }
+
 .rs_image	{	margin-top:15px; }
 
 pre	{	font-size:12px; }
@@ -127,11 +127,12 @@ pre	{	font-size:12px; }
 				
 #sale a	{	text-decoration:none;
 				text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000; }
-#sale a:link		{	text-decoration:none; text-transform:uppercase; color:khaki; }
-#sale a:activate	{	text-decoration:none; text-transform:uppercase; color:khaki; }
-#sale a:visited		{	text-decoration:none; text-transform:uppercase; color:khaki; }
-#sale a:hover		{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
-#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
+#sale a:link		{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
+#sale a:activate	{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
+#sale a:visited		{	text-decoration:none; text-transform:uppercase; color:#b5e61d; }
+#sale:hover a		{	text-decoration:none; text-transform:uppercase; color:khaki; }
+#sale:hover a img	{	border-color:#b5e61d; }
+#sale a:focus		{	text-decoration:none; text-transform:uppercase; color:khaki; }
 
 #sale p	{	text-align: center;
 				vertical-align: middle; }
@@ -142,14 +143,15 @@ pre	{	font-size:12px; }
 						
 
 #hiring h2 	{ font-size:24px;
-				text-align: center;
-					vertical-align: middle; }
+				text-align:center;
+					vertical-align:middle; }
 #hiring a	{	text-decoration:none; }
 #hiring a:hover	{	text-decoration:none; text-transform:uppercase; color:khaki; }
 #hiring:hover a img {	border-color:#b5e61d; }
-
-#flag	{	text-align: center;
-					vertical-align: middle; }
+/*#hiring:hover a p	{	color:red; }*/
+.highlight	{	color:khaki; }
+#flag	{	text-align:center;
+					vertical-align:middle; }
 
 #foot	{	padding:10px 0 0 0;
 				text-align:center; }				
@@ -157,7 +159,14 @@ pre	{	font-size:12px; }
 				text-align:center;
 					font-weight:700; }
 					
-/*-----------------------------------------------------------------Sale page-------------------------------------------------------------------*/
+#mechanics > ul > li	{	margin-bottom:50px; }						
+#mechanics > ul > li > p	{	margin-left:10px;
+									font-size:24px; }
+									
+ol > li	{	margin-bottom:15px; }
+
+					
+/*Sale page styles*/
 
 #showroom_sale	{	width:900px; }
 
@@ -182,14 +191,7 @@ pre	{	font-size:12px; }
 .bike4sale > a > div > p	{	color:Khaki; }
 											
 
-/*----------------------------------------------------------------Sell me----------------------------------------------------------------------*/
-/*
-a h4:link		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#b5e61d; font-size:14px; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
-a h4:activate	{	font-weight:bold; text-decoration:none;	text-transform:uppercase; color:#b5e61d; text-shadow:1px 1px 0 #74AF1F, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
-a h4:visited	{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:#b5e61d; text-shadow:1px 1px 0 #74AF1F, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
-a h4:hover		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
-ah4 :focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; color:khaki; text-shadow:1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;}
-*/
+/* Sell me styles */
 
 #sellme	{	text-align:center;
 				margin:auto; }
