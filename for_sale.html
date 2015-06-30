@@ -25,37 +25,35 @@
 		<meta name="robots" content="INDEX,FOLLOW">
 
     <script type="text/javascript">
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+		function MM_preloadImages() { //v3.0
+  			var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+		}
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+		function MM_swapImgRestore() { //v3.0
+  			var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+		}
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+		function MM_findObj(n, d) { //v4.01
+  			var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  			if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  			for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  			if(!x && d.getElementById) x=d.getElementById(n); return x;
+		}
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-        </script>
+		function MM_swapImage() { //v3.0
+  			var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   			if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+			}
+ 	</script>
 </head>
-   
     
-    <body onLoad="MM_preloadImages('images/randoms/cape_town01_sepia_pop.jpg','images/randoms/rover01.jpg','images/randoms/bimota_tesi_3d_sepia_pop.png','images/randoms/bmw_s1000rr_sepia_pop.jpg','images/randoms/ducati_desmosedici_rr_sepia_pop.jpg','images/randoms/honda_nr_sepia_pop.jpg','images/randoms/triumph_speed_twin_sepia_pop.jpg','images/randoms/Honda_CBR-600_RR_sepia_pop.jpg','images/randoms/buy_bik_pop.png','images/randoms/triumph_daytona_675_sepia_pop.jpg','images/randoms/vincent_black_shadow_sepia_pop.jpg','images/Misc/buy_bik_pop.png','images/Misc/naked-motorcyclist-1_529x529.jpg','images/Icons/wood_facebook2.png','images/Icons/wood_twitter2.png')">
+<body onLoad="MM_preloadImages('images/randoms/cape_town01_sepia_pop.jpg','images/randoms/rover01.jpg','images/randoms/bimota_tesi_3d_sepia_pop.png','images/randoms/bmw_s1000rr_sepia_pop.jpg','images/randoms/ducati_desmosedici_rr_sepia_pop.jpg','images/randoms/honda_nr_sepia_pop.jpg','images/randoms/triumph_speed_twin_sepia_pop.jpg','images/randoms/Honda_CBR-600_RR_sepia_pop.jpg','images/randoms/buy_bik_pop.png','images/randoms/triumph_daytona_675_sepia_pop.jpg','images/randoms/vincent_black_shadow_sepia_pop.jpg','images/Misc/buy_bik_pop.png','images/Misc/naked-motorcyclist-1_529x529.jpg','images/Icons/wood_facebook2.png','images/Icons/wood_twitter2.png')">
      	
         <div id="wrapper">
         	<div id="top">
-            
                
                 <div id="logo">
          			<a href="index.html"><img style="border:none" src="images/Misc/logo_trans.png" alt="Bikes2Go Logo"></a>
@@ -64,7 +62,8 @@ function MM_swapImage() { //v3.0
                 <div id="call">
                 	<a href="images/misc/naked-motorcyclist-1_529x529.jpg">
                     	<img src="images/Misc/naked-motorcyclist-1_529x529_sepia.jpg" alt="Dane Janion" width="75" height="75" id="dane" 
-                        onMouseOver="MM_swapImage('dane','','images/Misc/naked-motorcyclist-1_529x529.jpg',1)" onMouseOut="MM_swapImgRestore()">
+                        onMouseOver="MM_swapImage('dane','','images/Misc/naked-motorcyclist-1_529x529.jpg',1)" 
+                        onMouseOut="MM_swapImgRestore()">
                     </a>
                 </div><!--call-->
 
@@ -109,31 +108,24 @@ function MM_swapImage() { //v3.0
                     <li>
                         <img src="data1/images/1roadhog01_1500x750.png" alt="1roadhog01_1500x750" title="1roadhog01_1500x750" id="wows1_0"/>
                     </li>
-                    
                     <li>
                         <img src="data1/images/2roadhog02_1200x600.jpg" alt="2roadhog02_1200x600" title="2roadhog02_1200x600" id="wows1_1"/>
                     </li>
-                    
                     <li>
                         <img src="data1/images/3brit01_1024x512.png" alt="3Brit01_1024x512" title="3Brit01_1024x512" id="wows1_2"/>
                     </li>
-                    
                     <li>
                         <img src="data1/images/4sports01_1128x569.jpg" alt="4sports01_1128x569" title="4sports01_1128x569" id="wows1_3"/>7				
                     </li>
-                    
                     <li>
                         <img src="data1/images/5dirty.jpg" alt="5dirty" title="5dirty" id="wows1_4"/>
                     </li>
-                    
                     <li>
                         <img src="data1/images/6pe01.jpg" alt="6pe01" title="6pe01" id="wows1_5"/>
                     </li>
-                    
                     <li>
                       <img src="data1/images/7pe02.jpg" alt="7pe02" title="7pe02" id="wows1_6"/>
                     </li>
-                    
                     <li>
                         <img src="data1/images/9trailer01_1418x709.jpg" alt="9trailer01_1418x709" title="9trailer01_1418x709" id="wows1_8"/>
                     </li>
@@ -144,17 +136,14 @@ function MM_swapImage() { //v3.0
             <script type="text/javascript" src="engine1/script.js"></script>
     
             </div><!--wowslider-container1-->     
-
             </div><!--banner-->
 			</div><!--banner background end-->
-            
-            
 
             <div id="content">
                 
                 <h1>Showroom Sale:</h1>
-                	<div id="showroom_sale">
-          
+                	
+                    <div id="showroom_sale">        
                    		<div class="bike4sale">
                         	<a href="sale - Bimota Tesi 3D.html">       
                                 <img src="images/bikes/bimota_tesi_3d_sepia.jpg" id="Image1" style="float:left"onMouseOver=
@@ -231,7 +220,8 @@ function MM_swapImage() { //v3.0
                         <div class="bike4sale">
                           	<a href="sale - Triumph Speed Twin.html">
                                 <img src="images/bikes/triumph_speed_twin_sepia.jpg" id="Image5" style="float:left" onMouseOver=
-                                "MM_swapImage('Image5','','images/bikes/triumph_speed_twin_sepia_pop.jpg',1)" onMouseOut="MM_swapImgRestore()">
+                                "MM_swapImage('Image5','','images/bikes/triumph_speed_twin_sepia_pop.jpg',1)" 
+                                onMouseOut="MM_swapImgRestore()">
      
                                 <div style="margin-left:5px">
                                     <h4>Triumph Speed Twin</h4>
@@ -285,9 +275,8 @@ function MM_swapImage() { //v3.0
                                 </div>
                          	</a>       
                       	</div>
-                        
              	</div><!--showroom_sale-->
-				
+
 			</div><!--content-->            
             
             <br><br><br>
@@ -301,8 +290,6 @@ function MM_swapImage() { //v3.0
                 	<img id="naf" style="border:none" class="rs_image" width="200" height="36" src="images/misc/niceandfoamy.png">
                 </a>
             </div><!--foot-->
-         
 		</div><!--wrapper-->
-         
 </body>
 </html>

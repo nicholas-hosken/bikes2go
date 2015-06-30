@@ -80,7 +80,7 @@ a:focus		{	font-weight:bold; text-decoration:none; text-transform:uppercase; col
 												border-radius: 5px; } 
 
 #content	{	float:left;
-					width: 670px; }
+					width:670px; }
 #content p strong	{	line-height:140%; }
 #content p	{	line-height:140%; }
 							 
@@ -165,7 +165,14 @@ pre	{	font-size:12px; }
 									
 ol > li	{	margin-bottom:15px; }
 
-					
+/*Pricing page style*/
+
+#fbdis	{	float:right;
+				width:200px; 
+					height:60px;
+						border-color:khaki; }
+#fbdis:hover	{	border-color:#fff; }
+				
 /*Sale page styles*/
 
 #showroom_sale	{	width:900px; }
@@ -215,4 +222,24 @@ ol > li	{	margin-bottom:15px; }
 #buying > p	{	text-align:justify;
 					margin:18px 0; }
 					
+/*Contact Form*/
+
+#contact_form	{	list-style-type:none; }
+#contact_form	li	{	padding:none;
+							margin:none; }
+
+input	{	width:285px;
+				border:1px solid #000; }
+
+textarea	{	height:150px;
+					width:590px;
+						border:1px solid #000; }
+
+#contact_name	{	float:left;
+						margin-right:25px; }
+
+label	{	display:block; }
+
+.button	{	width:100px; }
+
 					
